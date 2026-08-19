@@ -27,7 +27,7 @@ export function Families() {
           md:text-[34px]
         "
       >
-        Nişan Seramonisi
+        Nişan Seremonisi
       </h2>
 
       <div

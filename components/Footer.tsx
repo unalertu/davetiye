@@ -1,4 +1,4 @@
-import { COUPLE, EVENT } from "@/lib/invitation";
+import { COUPLE } from "@/lib/invitation";
 
 export function Footer() {
   return (
@@ -46,23 +46,9 @@ export function Footer() {
           md:pb-20
         "
       >
-        <span
-          className="
-            mx-auto
-            text-sm
-            leading-7
-            text-ink
-
-            md:max-w-[560px]
-            md:text-lg
-          "
-        >
-          {EVENT.closing}
-        </span>
-
         <div
           className="
-            mt-8
+            mt-2
             flex
             items-center
             justify-center

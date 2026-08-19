@@ -37,7 +37,6 @@ export const EVENT = {
   guestsArrive: "18:00",
   begins: "18:15",
   note: "Bu mutlu günümüzde sizleri de görmekten mutluluk duyarız.",
-  closing: "Katılımınız bizim için çok değerli. Teşekkür ederiz.",
 } as const;
 
 /** Month is zero-based, matching the Date constructor. */
