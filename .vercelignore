@@ -1,0 +1,5 @@
+# Kaynak suluboya dosyaları ve yardımcı scriptler derlemede kullanılmıyor.
+# Yayına giren görseller public/images içinde hazır duruyor.
+art/
+scripts/
+.shots/
