@@ -17,7 +17,7 @@ const INK = "#34151d";
 const ROSE = "#c58c9b";
 
 const shareCard = `
-<html><head><meta charset="utf-8"><style>
+<html lang="tr"><head><meta charset="utf-8"><style>
   ${FONTS}
   * { margin:0; padding:0; box-sizing:border-box; }
   body { width:1200px; height:630px; background:#fff; overflow:hidden;

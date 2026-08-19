@@ -89,17 +89,19 @@ export function Footer() {
           "
         />
 
+        {/* Written already-capitalised and marked as English: Turkish casing
+            rules would turn the "i"s into "İ" under text-transform. */}
         <span
+          lang="en"
           className="
             mt-5
             text-[10px]
             tracking-[0.2em]
             text-bordo
-            uppercase
             opacity-60
           "
         >
-          Engagement Invitation
+          ENGAGEMENT INVITATION
         </span>
       </footer>
     </>
